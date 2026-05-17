@@ -124,5 +124,6 @@ Prompt:
 AI Output:
 
 A computer uses memory to process and store data.
+
 RESULT: 
 The program has been executed successfully.
